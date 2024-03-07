@@ -1,6 +1,6 @@
 # Build a Chatbot to analyze PDF Document Using LLM
 
-## Author : @CognitiveClass.ai
+## Author : Sinanazeri
 
 ### mentee assignment from IBM Advance AI @ Infinite Learning Course completition of Build a Chatbot Using LLM from CognitiveClass.ai
 
