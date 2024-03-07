@@ -2,7 +2,7 @@
 
 ## Author : Sinanazeri
 
-### mentee assignment from IBM Advance AI @ Infinite Learning Course completition of Build a Chatbot Using LLM from CognitiveClass.ai
+### Mentee assignment from IBM Advance AI @ Infinite Learning Course completition of Build a Chatbot Using LLM from CognitiveClass.ai
 
 ## Mentee Info
 
