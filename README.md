@@ -6,7 +6,7 @@
 
 ## Mentee Info
 
-## Name : (Name) 
+## Name    : Alysa Dewintan Sari 
 ## Program : IBM Advance AI
 
 ## Tech Stack :
